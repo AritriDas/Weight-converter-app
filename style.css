@@ -1,0 +1,13 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background: #333;
+  color: white;
+}
+
+body h2 {
+  margin-top: 10vh;
+  margin-bottom: 5vh;
+  font-weight: 900;
+  color: #fffffb;
+}
+/*# sourceMappingURL=style.css.map */
